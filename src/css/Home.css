@@ -1,0 +1,42 @@
+/* .rows{
+    border: 2px solid red;
+} */
+
+.columns{
+    border: 2px solid gray;
+    border-width: 3px;
+    border-radius: 1rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    height: 300px;
+    /* width: 200px; */
+    padding: 10px;
+}
+
+.columns:hover{
+    border: 2px solid gray;
+}
+
+.title{
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: pink;
+
+}
+
+.subtitle{
+    text-align: center;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.separator{
+    padding: 3rem;
+}

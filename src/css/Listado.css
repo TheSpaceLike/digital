@@ -1,0 +1,24 @@
+.btn__insertar{
+    background-color: #0287E6;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+    padding: 10px;
+    margin-left: 2rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+    /* width: 200px; */
+}
+
+.btn__insertar:hover{
+    background-color: white;
+    border: 1px solid #0287E6;
+    color:#0287E6;
+    /* margin-left: 2rem; */
+}
+
+.subTitle{
+    text-align: center;
+    font-weight: normal;
+    font-size: 1.3rem;
+}

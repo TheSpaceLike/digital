@@ -1,0 +1,28 @@
+.principal__container{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    border: 0.5px solid gray;
+    padding: 40px;
+    background-color: white;
+}
+
+.secun__container{
+    text-align: center;
+}
+
+.separator__login{
+    margin-top: 1.5rem;
+}
+
+.user__title, .pass__title{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.container{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
